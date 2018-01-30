@@ -2,7 +2,7 @@
   <div class="container">
     <nav class="navbar" role="navigation" aria-label="main navigation">
       <div class="navbar-brand">
-        <a class="navbar-item" href="/">Portfolio</a>
+        <a class="navbar-item" href="http://rockndraw.ru/">Мои Друзья</a>
 
         <button class="button navbar-burger">
           <span></span>
@@ -13,10 +13,10 @@
 
       <div class="navbar-menu">
         <div class="navbar-end">
-          <nuxt-link class="navbar-item" to="/">Home</nuxt-link>
-          <nuxt-link class="navbar-item" to="/about">About</nuxt-link>
-          <nuxt-link class="navbar-item" to="/projects">Projects</nuxt-link>
-          <nuxt-link class="navbar-item" to="/contact">Contact</nuxt-link>
+          <nuxt-link class="navbar-item" to="/">Главная</nuxt-link>
+          <nuxt-link class="navbar-item" to="/about">Обо мне</nuxt-link>
+          <nuxt-link class="navbar-item" to="/projects">Проекты</nuxt-link>
+          <nuxt-link class="navbar-item" to="/contact">Контакты</nuxt-link>
         </div>
       </div>
     </nav>

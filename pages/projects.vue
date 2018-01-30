@@ -1,9 +1,9 @@
 <template>
   <section class="section is-medium">
     <div class="container has-text-centered">
-      <h1 class="title">My Projects</h1>
+      <h1 class="title">Мои проекты</h1>
       <p>
-        Some of my projects can be found on <a href="https://github.com/ammezie" target="_blank">GitHub</a>.
+        Некоторые мои наработки вы найдете тут <a href="https://github.com/lubnetskn" target="_blank">GitHub</a>.
       </p>
     </div>
   </section>
